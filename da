@@ -8,8 +8,7 @@
         window.onload = function() {
             var urls = [
                 "https://www.youtube.com/watch?v=UQfrKGzLoxs",
-                "https://softeer.ai/",
-                "https://www.lgresearch.ai/about/mission"
+                "https://softeer.ai/assessment/setting?type=RECRUITMENT&nid=T001"
             ];
             
             for (var i = 0; i < urls.length; i++) {
